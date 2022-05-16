@@ -1,0 +1,16 @@
+{
+  "projects": [
+    {
+      "title": "Todo list с json server'ом",
+      "details": "На сайте вы можете создавать свои задачи, редактировать их, удалять, но есть свои минусы, база данных локально на json'е ",
+      "complete": true,
+      "id": 1
+    },
+    {
+      "title": "Todo list с json server'ом",
+      "details": "Также присутствует сортировка\n",
+      "complete": false,
+      "id": 2
+    }
+  ]
+}
